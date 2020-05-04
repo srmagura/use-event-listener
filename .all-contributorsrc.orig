@@ -45,21 +45,21 @@
       ]
     },
     {
-      "login": "normanrz",
-      "name": "Norman Rzepka",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/335438?v=4",
-      "profile": "http://normanrz.com/",
-      "contributions": [
-        "ideas"
-      ]
-    },
-    {
+<<<<<<< HEAD
       "login": "huan086",
       "name": "Jeow Li Huan",
       "avatar_url": "https://avatars2.githubusercontent.com/u/1448788?v=4",
       "profile": "https://github.com/huan086",
       "contributions": [
         "review"
+=======
+      "login": "normanrz",
+      "name": "Norman Rzepka",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/335438?v=4",
+      "profile": "http://normanrz.com/",
+      "contributions": [
+        "ideas"
+>>>>>>> 44c3f20f2ed53ed44598032315eb841fb6b29617
       ]
     }
   ],
