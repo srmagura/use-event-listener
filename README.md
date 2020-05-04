@@ -1,6 +1,8 @@
-# @use-it/event-listener
+# @srmagura/use-event-listener
 
 A custom React Hook that provides a declarative useEventListener.
+
+<b>This is a temporary fork that has up-to-date TypeScript types! If you are a normal JS user, you can continue using `@use-it/event-listener` though it may not be maintained.</b>
 
 [![npm version](https://badge.fury.io/js/%40use-it%2Fevent-listener.svg)](https://badge.fury.io/js/%40use-it%2Fevent-listener) [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
@@ -16,13 +18,13 @@ between Dan and myself.
 ## Installation
 
 ```bash
-$ npm i @use-it/event-listener
+$ npm i @srmagura/use-event-listener
 ```
 
 or
 
 ```bash
-$ yarn add @use-it/event-listener
+$ yarn add @srmagura/use-event-listener
 ```
 
 ## Usage
