@@ -3,11 +3,11 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A custom React Hook that provides a useEventListener.",
-  "main": "dist/event-listener.js",
-  "umd:main": "dist/event-listener.umd.js",
-  "module": "dist/event-listener.m.js",
+  "main": "dist/use-event-listener.js",
+  "umd:main": "dist/use-event-listener.umd.js",
+  "module": "dist/use-event-listener.m.js",
   "source": "src/index.js",
   "types": "types/index.d.ts",
   "license": "MIT",
